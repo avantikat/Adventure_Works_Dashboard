@@ -23,5 +23,15 @@ The dashboard enables Adventure Works to gain deeper insights into their sales d
 - **Product Trends:** Identified trends in product sales, such as best-selling categories, seasonality effects, and product popularity, to optimize inventory management and product promotions.
 - **Operational Efficiency:** Evaluated operational efficiency metrics, such as order processing time, inventory turnover, and sales-to-inventory ratios, to streamline business operations and improve cost-effectiveness.
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository: `git clone [repository_link]`
+2. Open the project in Power BI Desktop.
+3. Explore the dashboard visuals and interact with the slicers for filtering options.
+4. Review the documentation for additional insights and details.
+
+
 By leveraging the insights gained from this dashboard, Adventure Works can develop effective strategies to drive sales growth, enhance customer satisfaction, and achieve business success.
 
